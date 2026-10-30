@@ -1,6 +1,6 @@
 # 当前实施与验证状态
 
-版本0.2.0-alpha.1，核实日期2026-10-30。仓库：https://github.com/Snow4a1l/HKUSTGZ-CLI 。当前为候选版，不能宣称全部模块、所有AI宿主或其他学生账号均已验收。
+版本0.2.0-alpha.1，核实日期2026-10-30。仓库：[HKUSTGZ-CLI](https://github.com/Snow4a1l/HKUSTGZ-CLI)。当前为候选版，不能宣称全部模块、所有AI宿主或其他学生账号均已验收。
 
 ## 已实现
 

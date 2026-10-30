@@ -1,16 +1,20 @@
 # 给 AI 的安装说明
 
-本文件是仓库安装入口。唯一指定仓库：https://github.com/Snow4a1l/HKUSTGZ-CLI，当前版本0.2.0-alpha.1为候选版。使用本仓库源码安装；不要执行来源不明的同名npm包。当前没有npm发布或GitHub Release。
+本文件是仓库安装入口。唯一指定仓库：[HKUSTGZ-CLI](https://github.com/Snow4a1l/HKUSTGZ-CLI)，当前版本0.2.0-alpha.1为候选版。使用本仓库源码安装；不要执行来源不明的同名npm包。当前没有npm发布或GitHub Release。
 
 ## 支持的环境
 
 已验证：Windows、Node.js >=20、支持本地命令和 in-app Browser 的 Codex。无 npm 运行依赖。其他 AI 可运行静态查询，但需要适配其受支持的浏览器才有个人数据刷新；不能承诺所有 AI 安装后都能使用全部功能。
 
+当前自动安装器的目标是Codex技能目录。Claude等其他宿主尚无自动技能安装或Browser适配，不能因CLI能运行就宣称该宿主完整支持。
+
+AI若无法打开GitHub页面，可直接读[本文件的原文入口](https://raw.githubusercontent.com/Snow4a1l/HKUSTGZ-CLI/main/INSTALL.md)。仓库公开，读取不需GitHub认证；打不开时报告实际地址和错误，不用搜索结果猜测仓库权限。
+
 AI先检查node --version。缺少Node或版本低于20时，应先完成受支持的Node安装并重新检查；安装器本身不会下载Node。若当前AI无本地命令或Browser能力，应明确指出环境缺口，不能宣称安装成功或要求用户复制私人快照补洞。
 
 ## 安装
 
-从 https://github.com/Snow4a1l/HKUSTGZ-CLI 取得源码（git clone或GitHub Download ZIP），已有工作副本则复用。阅读README、package.json和本文件，在解压/克隆目录运行：
+从 [HKUSTGZ-CLI 仓库](https://github.com/Snow4a1l/HKUSTGZ-CLI) 取得源码（git clone或GitHub Download ZIP），已有工作副本则复用。阅读README、package.json和本文件，在解压/克隆目录运行：
 
 ```powershell
 node scripts/install.mjs
