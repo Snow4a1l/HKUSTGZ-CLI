@@ -10,6 +10,8 @@
 
 AI若无法打开GitHub页面，可直接读[本文件的原文入口](https://raw.githubusercontent.com/Snow4a1l/HKUSTGZ-CLI/main/INSTALL.md)。仓库公开，读取不需GitHub认证；打不开时报告实际地址和错误，不用搜索结果猜测仓库权限。
 
+package.json中的private:true用于禁止误发布到npm，与GitHub仓库可见性无关。
+
 AI先检查node --version。缺少Node或版本低于20时，应先完成受支持的Node安装并重新检查；安装器本身不会下载Node。若当前AI无本地命令或Browser能力，应明确指出环境缺口，不能宣称安装成功或要求用户复制私人快照补洞。
 
 ## 安装

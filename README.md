@@ -168,6 +168,8 @@ hkustgz-cli 是面向香港科技大学（广州）同学的 CLI 与 AI Skill。
 
 这是[公开仓库](https://github.com/Snow4a1l/HKUSTGZ-CLI)，读取源码不需要 GitHub 登录。AI 没有打开链接、搜索不到结果或连接工具报错，都不足以证明仓库是私有的；原因需要根据实际报错判断。
 
+`package.json` 中的 `private: true` 用来防止误发布到 npm，不决定 GitHub 仓库是否公开。这是两种不同的设置。
+
 可以让 AI 先直接读取较简单的[安装说明原文](https://raw.githubusercontent.com/Snow4a1l/HKUSTGZ-CLI/main/INSTALL.md)：
 
 ```text
