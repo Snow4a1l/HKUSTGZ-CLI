@@ -22,7 +22,7 @@ hkustgz-cli 把港科广常用的查询整理成 CLI 和配套 Skill，让 AI �
 
 ## 使用示意
 
-![hkustgz-cli Skill演示：询问DDL、整理任务并生成安排草案](docs/assets/images/skill-demo.png)
+![hkustgz-cli Skill演示：询问DDL、整理任务并生成安排草案](docs/assets/images/skill-demo-v2.png)
 
 *这是AI生成的交互示意图，课程、任务和对话均为虚构，不是真实账号截图，也不作为系统验收证据。实际回答会附上来源、采集时间和覆盖范围。*
 
