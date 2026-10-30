@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-30",
+  "term": "2026-27 Fall",
+  "complete": false,
+  "officialTotalObserved": 266,
+  "coverage": "官方目录该学期显示266门；当前仅收录首页10门及UFUG2104单课查询，共11条。无结果不代表学校没有该课，目录不等于实际课表或考试安排。",
+  "records": [
+    {
+      "id": "aiaa1010",
+      "title": "Academic Orientation for AI Students",
+      "courseCode": "AIAA1010",
+      "aliases": [
+        "AIAA1010",
+        "Academic Orientation for AI Students"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 1,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa2110",
+      "title": "Cross-disciplinary Seminar: Artificial Intelligence",
+      "courseCode": "AIAA2110",
+      "aliases": [
+        "AIAA2110",
+        "Cross-disciplinary Seminar: Artificial Intelligence"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 0,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa2205",
+      "title": "Introduction to Artificial Intelligence",
+      "courseCode": "AIAA2205",
+      "aliases": [
+        "AIAA2205",
+        "Introduction to Artificial Intelligence"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa2211",
+      "title": "Exploring Artificial Intelligence",
+      "courseCode": "AIAA2211",
+      "aliases": [
+        "AIAA2211",
+        "Exploring Artificial Intelligence"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa2290",
+      "title": "Ethics, Privacy and Security in Artificial Intelligence",
+      "courseCode": "AIAA2290",
+      "aliases": [
+        "AIAA2290",
+        "Ethics, Privacy and Security in Artificial Intelligence"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa2711",
+      "title": "Mathematics for AI",
+      "courseCode": "AIAA2711",
+      "aliases": [
+        "AIAA2711",
+        "Mathematics for AI"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa3053",
+      "title": "Reinforcement Learning: Principles and Methods",
+      "courseCode": "AIAA3053",
+      "aliases": [
+        "AIAA3053",
+        "Reinforcement Learning: Principles and Methods"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa3072",
+      "title": "Foundations of Quantum Computing and Quantum AI",
+      "courseCode": "AIAA3072",
+      "aliases": [
+        "AIAA3072",
+        "Foundations of Quantum Computing and Quantum AI"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa3075",
+      "title": "Information-Theoretic Foundations of Compression and Learning",
+      "courseCode": "AIAA3075",
+      "aliases": [
+        "AIAA3075",
+        "Information-Theoretic Foundations of Compression and Learning"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "aiaa3102",
+      "title": "Python Programming with Artificial Intelligence",
+      "courseCode": "AIAA3102",
+      "aliases": [
+        "AIAA3102",
+        "Python Programming with Artificial Intelligence"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "AI",
+      "offeringUnit": "INFH",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ]
+    },
+    {
+      "id": "ufug2104",
+      "title": "Applied Statistics",
+      "courseCode": "UFUG2104",
+      "aliases": [
+        "UFUG2104",
+        "Applied Statistics",
+        "应用统计",
+        "应用统计学",
+        "统计课"
+      ],
+      "term": "2026-27 Fall",
+      "credits": 3,
+      "subjectArea": "STEM",
+      "offeringUnit": "CES",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "verifiedAt": "2026-10-30",
+      "detailsVerified": true,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Undergraduate Courses: 2026-27 Fall",
+          "text": "从官方目录的可见列表核实课程代码、名称、学分、学科和开课单位；不包含班次、教师、上课或考试时间。"
+        }
+      ],
+      "description": "课程说明涵盖统计与概率基础、统计推断、检验统计量、回归和贝叶斯统计及其应用。",
+      "prerequisitesText": "UFUG 1102 OR UFUG 1105",
+      "corequisitesText": "—",
+      "exclusionsText": "—",
+      "equivalentCoursesText": "—",
+      "academicGroup": "UGRD",
+      "eligibilityEvaluated": false
+    }
+  ]
+}

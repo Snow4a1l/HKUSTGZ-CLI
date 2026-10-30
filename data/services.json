@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-30",
+  "coverage": "已核实的补卡详情、课程/专业/成绩导航和Portal首页学生服务台部分事项；非完整服务目录。标题可见不等于详情已验证；考试旧入口当前不可用。",
+  "records": [
+    {
+      "id": "campus-card-replacement-student",
+      "title": "校园卡补卡申请（学生）",
+      "aliases": [
+        "补办校园卡",
+        "校园卡补办",
+        "校园卡丢了",
+        "校园卡遗失",
+        "补卡",
+        "campus card replacement",
+        "lost campus card"
+      ],
+      "description": "学生校园卡补办的线上办理入口与领卡说明。",
+      "department": [
+        "资讯科技处",
+        "财务处"
+      ],
+      "entryUrl": "https://onestop-online.hkust-gz.edu.cn/fp/view?m=fp#from=hall&serveID=13032652835717120&act=fp/serveapply",
+      "entryType": "service-form",
+      "navigation": [
+        "Portal",
+        "搜索“校园卡”",
+        "港科大（广州）校园卡补卡"
+      ],
+      "navigationVerified": true,
+      "navigationNote": "2026-10-30 从 Portal 搜索结果打开，已读取事项详情和申请表单；未提交。",
+      "sourceUrl": "https://onestop-online.hkust-gz.edu.cn/fp/view?m=fp#from=hall&serveID=13032652835717120&act=fp/serveapply",
+      "additionalSourceUrls": [
+        "https://onestopservice.hkust-gz.edu.cn/zh/2023/07/25/campus-card-reporting-replacement/",
+        "https://itdid.hkust-gz.edu.cn/cn/ResourceApplication"
+      ],
+      "steps": [
+        "登录 Portal 搜索“校园卡”，打开“港科大（广州）校园卡补卡”。",
+        "按表单填写手机号、邮箱、现住宿舍和申请原因；姓名和学号由系统显示。",
+        "页面流程为服务发起人 → ITD办理 → SFS平台缴费；本次未提交或验证缴费跳转。",
+        "审批完成后按通知到6号窗口领取；每张补卡工本费20元。"
+      ],
+      "stepsType": "source-summary",
+      "loginRequired": true,
+      "eligibility": "当前登录后事项页明确为本科生、研究生；公开旧指南正文曾称全体师生。",
+      "materials": null,
+      "fee": {
+        "amount": 20,
+        "currency": "CNY",
+        "description": "每张校园卡补办工本费；未支付。"
+      },
+      "missingInformation": [
+        "页面未列明额外证明材料，不能据此断言无需材料。",
+        "办理时限中英文不一致：中文5个工作日，英文2个工作日。"
+      ],
+      "publishedAt": null,
+      "verifiedAt": "2026-10-30",
+      "verification": "2026-10-30 通过 Browser 从已登录 Portal 搜索并打开事项；已读取详情及表单，未填写、申请、暂存或缴费。链接已验证可打开，尚未验证跨会话稳定性。",
+      "evidence": [
+        {
+          "type": "official-quote",
+          "section": "注意事项",
+          "sourceUrl": "https://onestopservice.hkust-gz.edu.cn/zh/2023/07/25/campus-card-reporting-replacement/",
+          "text": "登录线上办事大厅申请办理审批完成后，2个工作日后到6号窗口取卡，或按照通知领取。"
+        },
+        {
+          "type": "source-summary",
+          "section": "学生资源申请",
+          "sourceUrl": "https://itdid.hkust-gz.edu.cn/cn/ResourceApplication",
+          "text": "学校IT部门的学生资源申请列表提供校园卡补卡申请（学生）链接，指向同一线上办事大厅。"
+        },
+        {
+          "type": "source-summary",
+          "section": "登录后事项详情、办理流程、申请表单及注意事项",
+          "sourceUrl": "https://onestop-online.hkust-gz.edu.cn/fp/view?m=fp#from=hall&serveID=13032652835717120&act=fp/serveapply",
+          "text": "本科生和研究生校园卡补卡，工本费20元，通知后到6号窗口领取。中文时限5个工作日，英文2个工作日。表单包含手机号、邮箱、宿舍、申请原因，姓名和学号由系统显示。该事项不适用于庆盛花园通行卡。"
+        }
+      ],
+      "processingTime": {
+        "zh": "5个工作日",
+        "en": "2 working days",
+        "consistent": false
+      },
+      "serviceHours": "周一至周五 9:30–12:00、14:30–17:00",
+      "contact": "88339311"
+    },
+    {
+      "id": "ug-program-catalog",
+      "title": "港科广本科专业与学业要求目录",
+      "aliases": [
+        "本科专业要求",
+        "培养方案",
+        "本科毕业要求",
+        "主修",
+        "辅修",
+        "program catalog"
+      ],
+      "description": "教务官网指向广州校区PCC。已核实2025-26与2026-27专业目录和本科总体要求，AI培养要求4页PDF已读取；其他专业附件尚未解析。",
+      "department": null,
+      "entryUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+      "entryType": "public-catalog",
+      "sourceUrl": "https://ars.hkust-gz.edu.cn/programs-courses/",
+      "navigation": [],
+      "navigationVerified": true,
+      "loginRequired": false,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://ars.hkust-gz.edu.cn/programs-courses/",
+          "text": "教务官网指向广州校区PCC。已核实2025-26与2026-27专业目录和本科总体要求，AI培养要求4页PDF已读取；其他专业附件尚未解析。"
+        }
+      ]
+    },
+    {
+      "id": "ug-course-catalog",
+      "title": "港科广本科课程目录",
+      "aliases": [
+        "课程列表",
+        "课程目录",
+        "开课目录",
+        "course catalog"
+      ],
+      "description": "已读PCC本科目录，可按代码、名称、学期、开课单位和学科检索；课程说明不等于班次、考试安排或本人选课。",
+      "department": null,
+      "entryUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog?tab=course-catalog",
+      "entryType": "public-catalog",
+      "sourceUrl": "https://ars.hkust-gz.edu.cn/programs-courses/",
+      "navigation": [],
+      "navigationVerified": true,
+      "loginRequired": false,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://ars.hkust-gz.edu.cn/programs-courses/",
+          "text": "已读PCC本科目录，可按代码、名称、学期、开课单位和学科检索；课程说明不等于班次、考试安排或本人选课。"
+        }
+      ]
+    },
+    {
+      "id": "class-schedule-quota",
+      "title": "Class Schedule & Quota",
+      "aliases": [
+        "全校课程时间",
+        "全校开课",
+        "课程名额",
+        "班次",
+        "教师课程搜索"
+      ],
+      "description": "已从官方教务目录确认入口并通过Browser读取。可见上课时间地点、教师及配额/已选/空余/候补数；页末说明通常每15到20分钟更新。未核实考试字段。",
+      "department": null,
+      "entryUrl": "https://sisn.hkust-gz.edu.cn/cq",
+      "entryType": "system-entry",
+      "sourceUrl": "https://ars.hkust-gz.edu.cn/systems-tools/",
+      "navigation": [],
+      "navigationVerified": true,
+      "loginRequired": null,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://ars.hkust-gz.edu.cn/systems-tools/",
+          "text": "已从官方教务目录确认入口并通过Browser读取。可见上课时间地点、教师及配额/已选/空余/候补数；页末说明通常每15到20分钟更新。未核实考试字段。"
+        }
+      ]
+    },
+    {
+      "id": "sisn-academic-grades",
+      "title": "SISN 学期成绩与官方学业汇总",
+      "aliases": [
+        "成绩查询",
+        "成绩单",
+        "官方GPA",
+        "绩点",
+        "学分进度",
+        "教务成绩"
+      ],
+      "description": "已在SISN读取My Academics及My Term Information，含学期成绩和官方统计；另见Unofficial Transcript、Academic Requirements页签，但未验证导出、官方排名或毕业审核。",
+      "department": null,
+      "entryUrl": "https://sisn.hkust-gz.edu.cn/student-record/my-academics",
+      "entryType": "system-entry",
+      "sourceUrl": "https://sisn.hkust-gz.edu.cn/student-record/my-academics",
+      "navigation": [
+        "SISN",
+        "My Academics",
+        "My Term Information"
+      ],
+      "navigationVerified": true,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "My Academics / My Term Information",
+          "sourceUrl": "https://sisn.hkust-gz.edu.cn/student-record/my-academics",
+          "text": "已在SISN读取My Academics及My Term Information，含学期成绩和官方统计；另见Unofficial Transcript、Academic Requirements页签，但未验证导出、官方排名或毕业审核。"
+        }
+      ]
+    },
+    {
+      "id": "final-exam-entry-unavailable",
+      "title": "Final Examination Schedule（当前入口不可用）",
+      "aliases": [
+        "考试时间",
+        "期末考试",
+        "考试地点",
+        "考试安排"
+      ],
+      "description": "Portal首页可见此应用，但点击后的w5站点返回Not Found；教务官网旧学期链接亦404。尚未读取考试数据，不能提供有效考试表。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-navigation-unavailable",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "Final Examination Schedule"
+      ],
+      "navigationVerified": true,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "Portal首页可见此应用，但点击后的w5站点返回Not Found；教务官网旧学期链接亦404。尚未读取考试数据，不能提供有效考试表。"
+        }
+      ],
+      "availability": "not-found",
+      "unavailableUrl": "https://w5.hkust-gz.edu.cn/wex/cgi-bin",
+      "examDataVerified": false
+    },
+    {
+      "id": "portal-bank-update",
+      "title": "Request Form for Bank Account Information Update",
+      "aliases": [
+        "银行账户信息更新"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "Request Form for Bank Account Information Update"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "portal-vehicle-entry",
+      "title": "车辆准入申请",
+      "aliases": [
+        "车辆准入",
+        "车辆申请"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "车辆准入申请"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "portal-door-opening",
+      "title": "办公室及宿舍开门申请",
+      "aliases": [
+        "宿舍开门",
+        "办公室开门"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "办公室及宿舍开门申请"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "portal-hpc-ai",
+      "title": "HPC AI 平台申请",
+      "aliases": [
+        "HPC申请",
+        "高性能计算平台"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "HPC AI 平台申请"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "portal-dorm-access",
+      "title": "校园卡门禁权限更改（宿舍）",
+      "aliases": [
+        "宿舍门禁更改"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "校园卡门禁权限更改（宿舍）"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "portal-card-unlock",
+      "title": "港科大（广州）学生校园卡解挂",
+      "aliases": [
+        "校园卡解挂"
+      ],
+      "description": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。",
+      "department": null,
+      "entryUrl": "https://myportal.hkust-gz.edu.cn/",
+      "entryType": "portal-home-navigation",
+      "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+      "navigation": [
+        "Portal",
+        "学生服务台",
+        "港科大（广州）学生校园卡解挂"
+      ],
+      "navigationVerified": false,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "官方目录或Portal可见入口",
+          "sourceUrl": "https://myportal.hkust-gz.edu.cn/",
+          "text": "仅核实Portal首页“学生服务台”中的可见事项名称；未打开详情、未核实表单直达链接、材料或提交条件。"
+        }
+      ]
+    },
+    {
+      "id": "public-printer-driver",
+      "title": "公共打印机驱动下载",
+      "aliases": [
+        "打印机驱动",
+        "打印驱动",
+        "打印机安装",
+        "学校打印机",
+        "printer driver"
+      ],
+      "description": "ITD打印服务页提供Windows/Mac/Linux指南；Windows指南第4页指向ITD下载中心General Software下载Windows和Mac驱动。下载中心需要学校登录。只提供官方入口，不执行驱动安装。",
+      "department": "ITD",
+      "entryUrl": "https://itdid.hkust-gz.edu.cn/en/GeneralOfficeSoftware",
+      "entryType": "official-download-center",
+      "sourceUrl": "https://itdid.hkust-gz.edu.cn/en/ITServices-Printer",
+      "navigation": [
+        "ITD",
+        "Download Center",
+        "General Software"
+      ],
+      "navigationVerified": true,
+      "loginRequired": true,
+      "verifiedAt": "2026-10-30",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Windows guide PDF p.4",
+          "sourceUrl": "https://itdid.hkust-gz.edu.cn/en/detail-840",
+          "text": "指南正文将Windows与Mac驱动指向官方ITD下载中心；打印服务目录提供不同操作系统的说明。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-30",
+  "coverage": "已核实的官方摘要、部分PDF正文页码及来源入口；不是全校文件全文库，版本与bodyPagesRead需逐条检查。",
+  "records": [
+    {
+      "id": "sis-pre-enrollment-ug",
+      "title": "FAQ (UG): Pre-enrollment",
+      "aliases": [
+        "预选课",
+        "预注册",
+        "预选结果",
+        "pre-enrollment",
+        "SIS",
+        "SISN"
+      ],
+      "sourceUrl": "https://ars.hkust-gz.edu.cn/programs-courses/guides-on-course-registration/faq-ug-pre-enrollment/",
+      "downloadUrl": null,
+      "department": "Academic Registry Services",
+      "publishedAt": null,
+      "fetchedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30",
+      "text": "教务官网FAQ第2项说明，validation period开始后可登录SIS查看预选课结果。页面链接指向 https://sisn.hkust-gz.edu.cn/。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Question 2: When & How to check my pre-enrollment result?",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Question 2",
+          "text": "从validation period开始之日起，可在SIS查看预选课结果；这说明系统用途，不证明当前账号有权限。"
+        }
+      ]
+    },
+    {
+      "id": "ars-systems-tools",
+      "title": "Systems & Tools",
+      "aliases": [
+        "教务系统入口",
+        "系统工具",
+        "Canvas",
+        "成绩单",
+        "电子文件验证"
+      ],
+      "sourceUrl": "https://ars.hkust-gz.edu.cn/systems-tools/",
+      "downloadUrl": null,
+      "department": "Academic Registry Services",
+      "publishedAt": null,
+      "fetchedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30",
+      "text": "教务官网系统目录列出SIS、课表与名额、考试安排、成绩报告、教室预约、Canvas、电子文件验证及证明/成绩单申请等入口。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Useful Systems & Links",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Useful Systems & Links",
+          "text": "页面明确将SIS指向sisn.hkust-gz.edu.cn，将Canvas指向hkust-gz.instructure.com。Canvas与KLMS的关系待确认。"
+        }
+      ]
+    },
+    {
+      "id": "gz-ug-degree-requirements",
+      "title": "HKUST(GZ) Requirements for Bachelor’s Degrees",
+      "aliases": [
+        "本科毕业要求",
+        "本科学业要求",
+        "本科专业要求",
+        "本科培养方案",
+        "120学分",
+        "degree requirements"
+      ],
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+      "downloadUrl": null,
+      "department": "Academic Registry Services",
+      "publishedAt": null,
+      "fetchedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30",
+      "text": "2026-27入学年份本科目录总则列出至少120认可学分、最低本校学分规定、共同核心、英语、适用Hub及主修要求，以及公民教育和体育。具体专业还需按适用入学年份读取培养方案；不能仅凭120学分判断毕业。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Requirements for Bachelor’s Degrees (i)–(vi), Year of Intake 2026-27",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Requirements for Bachelor’s Degrees",
+          "text": "从广州校区PCC本科项目目录可见正文核实总体要求，不使用清水湾目录代替。"
+        }
+      ]
+    },
+    {
+      "id": "gz-ai-curriculum-2025-onwards",
+      "title": "Curriculum Requirements: BEng in Artificial Intelligence - 2025 cohort and onwards",
+      "aliases": [
+        "人工智能培养方案",
+        "AI专业要求",
+        "人工智能专业学分",
+        "AI curriculum",
+        "2025 cohort"
+      ],
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Artificial%20Intelligence?academicYear=2026%2F27",
+      "downloadUrl": null,
+      "documentUrl": "https://document.hkust-gz.edu.cn/office/viewer?key=972",
+      "department": "Artificial Intelligence Thrust",
+      "publishedAt": null,
+      "fetchedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30",
+      "text": "已提取并逐页核对官方4页PDF，适用2025-26及以后4年制AI本科生：总120学分，共同核心30，专业85（基础21、专业必修40、专业选修24）；专业选修从指定名单选8门，基础课程保留OR替代组，自由选修补总学分差额。索引仅为摘要，不是本人毕业审核。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Curriculum Requirements PDF pp.1–4",
+      "bodyRead": true,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "PDF pp.1–4",
+          "sourceUrl": "https://document.hkust-gz.edu.cn/office/viewer?key=972",
+          "text": "120总学分；共同核心30，专业要求85；基础21、专业必修40、专业选修24。选修从指定名单选8门，OR组不把所有备选课均列为必修。建议路径文件尚未读取。"
+        }
+      ]
+    },
+    {
+      "id": "printer-driver-guide",
+      "title": "公共打印机驱动与安装指南",
+      "aliases": [
+        "打印机驱动",
+        "打印驱动",
+        "打印机安装",
+        "学校打印机",
+        "printer driver",
+        "Windows打印",
+        "Mac打印",
+        "打印机怎么连接"
+      ],
+      "sourceUrl": "https://itdid.hkust-gz.edu.cn/en/ITServices-Printer",
+      "department": null,
+      "verifiedAt": "2026-10-30",
+      "fetchedAt": "2026-10-30",
+      "text": "Windows指南PDF第4页将Windows和Mac驱动下载指向ITD下载中心的General Software；下载中心需要学校登录。打印服务页另有Windows、Mac和Linux安装说明。指南说明学生打印认证方式选择CONNECT；此处不代为输入认证信息。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Windows guide PDF p.4: Driver download / Login",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Windows guide PDF p.4: Driver download / Login",
+          "sourceUrl": "https://itdid.hkust-gz.edu.cn/en/ITServices-Printer",
+          "text": "Windows指南PDF第4页将Windows和Mac驱动下载指向ITD下载中心的General Software；下载中心需要学校登录。打印服务页另有Windows、Mac和Linux安装说明。指南说明学生打印认证方式选择CONNECT；此处不代为输入认证信息。"
+        }
+      ],
+      "downloadUrl": "https://itdid.hkust-gz.edu.cn/en/GeneralOfficeSoftware",
+      "loginRequired": true,
+      "bodyRead": true,
+      "bodyPagesRead": [
+        4
+      ],
+      "version": "Windows PDF filename 20260731; Mac PDF filename 20261021",
+      "guideUrls": {
+        "windows": "https://itdid.hkust-gz.edu.cn/en/detail-840",
+        "mac": "https://itdid.hkust-gz.edu.cn/en/detail-839"
+      }
+    },
+    {
+      "id": "academic-calendar-2026-27",
+      "title": "2026–27学年校历（广州）",
+      "aliases": [
+        "校历",
+        "本科校历",
+        "学校放假",
+        "考试周",
+        "academic calendar",
+        "什么时候考试"
+      ],
+      "sourceUrl": "https://www.hkust-gz.edu.cn/academics/academic-calendar/",
+      "department": null,
+      "verifiedAt": "2026-10-30",
+      "fetchedAt": "2026-10-30",
+      "text": "学校官网列出2026–27校历。PDF第1页：秋季9月1日开学、12月7日最后教学日、12月8–12日温习假、12月14–25日期末考试；10月10日补星期五课程。第2页：春季2027年1月25日开始、5月12日最后教学日、5月18–29日期末考试。2027年假期仍待政府公告调整，文件不是单门课程考试时间表。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "Official calendar PDF pp.1–2",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "Official calendar PDF pp.1–2",
+          "sourceUrl": "https://www.hkust-gz.edu.cn/academics/academic-calendar/",
+          "text": "学校官网列出2026–27校历。PDF第1页：秋季9月1日开学、12月7日最后教学日、12月8–12日温习假、12月14–25日期末考试；10月10日补星期五课程。第2页：春季2027年1月25日开始、5月12日最后教学日、5月18–29日期末考试。2027年假期仍待政府公告调整，文件不是单门课程考试时间表。"
+        }
+      ],
+      "downloadUrl": "https://material.hkust-gz.edu.cn/wp-content/uploads/pdf/academic-calendar-2026-27.pdf",
+      "academicYear": "2026-27",
+      "version": "HKUST(GZ)-Nov 2025",
+      "bodyRead": true,
+      "bodyPagesRead": [
+        1,
+        2
+      ],
+      "loginRequired": false
+    },
+    {
+      "id": "ug-entry-guide-2025",
+      "title": "2025年本科入学指南（OSA学生指南手册）",
+      "aliases": [
+        "本科学生手册",
+        "本科生手册",
+        "学生手册",
+        "本科手册",
+        "入学指南",
+        "新生手册",
+        "undergraduate handbook"
+      ],
+      "sourceUrl": "https://osa.hkust-gz.edu.cn/cn/Handbook",
+      "department": null,
+      "verifiedAt": "2026-10-30",
+      "fetchedAt": "2026-10-30",
+      "text": "OSA学生指南手册页面目前链接2025年本科入学指南，页面发布日期2026年1月21日。PDF共74页，第2页目录含生活篇、学业篇、大学活动篇、校园规章制度及联系方式；第3页致2025级新生。该文件适用版本是2025指南，不能称为2026版或替代正式学业规章。Portal旧本科学生手册入口目前跳至CES学院首页，未取得同名新版全文。 已读PDF第29–31页学业篇开头、第64页校园规章目录和第73页部门联系方式；仅收录这些页的摘要，不称全文索引。",
+      "textType": "source-summary",
+      "fullTextIndexed": false,
+      "section": "PDF pp.2–3, 29–31, 64, 73",
+      "evidence": [
+        {
+          "type": "source-summary",
+          "section": "PDF pp.2–3, 29–31, 64, 73",
+          "sourceUrl": "https://osa.hkust-gz.edu.cn/cn/Handbook",
+          "text": "OSA学生指南手册页面目前链接2025年本科入学指南，页面发布日期2026年1月21日。PDF共74页，第2页目录含生活篇、学业篇、大学活动篇、校园规章制度及联系方式；第3页致2025级新生。该文件适用版本是2025指南，不能称为2026版或替代正式学业规章。Portal旧本科学生手册入口目前跳至CES学院首页，未取得同名新版全文。 已读PDF第29–31页学业篇开头、第64页校园规章目录和第73页部门联系方式；仅收录这些页的摘要，不称全文索引。"
+        }
+      ],
+      "downloadUrl": "https://static.hkust-gz.edu.cn/OSA/（最新版）香港科技大学广州2025年本科入学指南-0813.pdf",
+      "version": "2025 undergraduate entry guide",
+      "publishedAt": "2026-01-21",
+      "bodyRead": true,
+      "bodyPagesRead": [
+        2,
+        3,
+        29,
+        30,
+        31,
+        64,
+        73
+      ],
+      "loginRequired": false,
+      "portalEntryStatus": "redirects-to-college-home",
+      "academicRegulationsUrl": "https://ars.hkust-gz.edu.cn/regulations-guidelines/"
+    }
+  ]
+}

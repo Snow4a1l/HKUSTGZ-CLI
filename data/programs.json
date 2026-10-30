@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-30",
+  "intake": "2026-27",
+  "complete": true,
+  "coverage": "已核实2025-26与2026-27目录，分别9及10个项目；目录完整不等于专业细则全文或个人毕业审核完成。",
+  "generalRequirements": {
+    "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+    "section": "Requirements for Bachelor’s Degrees (i)–(vi)",
+    "verifiedAt": "2026-10-30",
+    "textType": "source-summary",
+    "minimumCredits": 120,
+    "requirements": [
+      "经批准课程及认可学分转移至少120学分，并满足Academic Regulation 6.3的最低本校学分要求。",
+      "满足大学共同核心课程要求。",
+      "满足大学英语要求。",
+      "满足所属Hub要求（如适用）。",
+      "满足至少一个主修要求，或所属Hub的一般学位要求。",
+      "满足大学公民教育与体育要求。"
+    ],
+    "regulationUrl": "https://document.hkust-gz.edu.cn/office/viewer?key=562",
+    "regulationBodyRead": false,
+    "graduationAuditImplemented": false,
+    "applicability": "本科主修学位总体要求；不是辅修或延伸主修的独立完成规则，也不是本人毕业审核。"
+  },
+  "records": [
+    {
+      "id": "beng-amat",
+      "title": "BEng in Materials Science and Engineering",
+      "aliases": [
+        "材料科学与工程",
+        "材料",
+        "beng-amat"
+      ],
+      "intake": "2026-27",
+      "hub": "Function Hub",
+      "thrust": "Advanced Materials",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Materials%20Science%20and%20Engineering?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "beng-mics",
+      "title": "BEng in Microelectronics Science and Engineering",
+      "aliases": [
+        "微电子科学与工程",
+        "微电子",
+        "beng-mics"
+      ],
+      "intake": "2026-27",
+      "hub": "Function Hub",
+      "thrust": "Microelectronics",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Microelectronics%20Science%20and%20Engineering?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "beng-nsee",
+      "title": "BEng in New Energy Science and Engineering",
+      "aliases": [
+        "新能源科学与工程",
+        "新能源",
+        "beng-nsee"
+      ],
+      "intake": "2026-27",
+      "hub": "Function Hub",
+      "thrust": "Sustainable Energy and Environment",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/New%20Energy%20Science%20and%20Engineering?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "beng-ai",
+      "title": "BEng in Artificial Intelligence",
+      "aliases": [
+        "人工智能专业",
+        "人工智能",
+        "AI",
+        "beng-ai"
+      ],
+      "intake": "2026-27",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Artificial%20Intelligence?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": true,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        },
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Artificial%20Intelligence?academicYear=2026%2F27",
+          "section": "Award Title / Offering Unit / Duration / Curriculum Requirement / Student Pathway",
+          "text": "AI项目页列明中文学位名、4年标准修读年限及培养方案/建议路径入口。随后已通过受支持下载工具取得培养要求PDF，并提取及视觉核对全部4页。"
+        }
+      ],
+      "awardTitleChinese": "工学士（人工智能）",
+      "durationYears": 4,
+      "offeringUnit": "Artificial Intelligence Thrust",
+      "curriculumRequirementsFile": "ai-requirements-2025-onwards.json",
+      "pathway": {
+        "title": "Normative Pathway Example 1 - 2025 cohort and onwards",
+        "sourceUrl": "https://document.hkust-gz.edu.cn/office/viewer?key=840",
+        "bodyRead": false
+      },
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "bsc-dsbd",
+      "title": "BSc in Data Science and Big Data Technology",
+      "aliases": [
+        "数据科学与大数据技术",
+        "大数据",
+        "bsc-dsbd"
+      ],
+      "intake": "2026-27",
+      "hub": "Information Hub",
+      "thrust": "Data Science and Analytics",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Data%20Science%20And%20Big%20Data%20Technology?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "extm-ai",
+      "title": "Extended Major Program in Artificial Intelligence",
+      "aliases": [
+        "人工智能延伸主修",
+        "EXTM-AI",
+        "extm-ai"
+      ],
+      "intake": "2026-27",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Extended%20Major%20Program%20in%20Artificial%20Intelligence?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "extended-major"
+    },
+    {
+      "id": "minor-ai",
+      "title": "Minor Program in Artificial Intelligence",
+      "aliases": [
+        "人工智能辅修",
+        "MINOR-AI",
+        "minor-ai"
+      ],
+      "intake": "2026-27",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Minor%20Program%20in%20Artificial%20Intelligence?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "minor"
+    },
+    {
+      "id": "beng-rob",
+      "title": "BEng in Robotics",
+      "aliases": [
+        "机器人工程",
+        "机器人",
+        "beng-rob"
+      ],
+      "intake": "2026-27",
+      "hub": "Systems Hub",
+      "thrust": "Robotics and Autonomous Systems",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Robotics?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "beng-smmg",
+      "title": "BEng in Smart Manufacturing Engineering",
+      "aliases": [
+        "智能制造工程",
+        "智能制造",
+        "beng-smmg"
+      ],
+      "intake": "2026-27",
+      "hub": "Systems Hub",
+      "thrust": "Smart Manufacturing",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Smart%20Manufacturing%20Engineering?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "bsc-ftec",
+      "title": "BSc in Financial Technology",
+      "aliases": [
+        "金融科技",
+        "FTEC",
+        "bsc-ftec"
+      ],
+      "intake": "2026-27",
+      "hub": "Society Hub",
+      "thrust": "Financial Technology",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Financial%20Technology?academicYear=2026%2F27",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "2026-27 Year of Intake / program list",
+          "text": "在2026-27入学年份筛选下，官方列表列出此项目、Hub及Thrust；未读取其专业细则。"
+        }
+      ],
+      "programType": "bachelor-major"
+    },
+    {
+      "id": "beng-amat-2025-26",
+      "title": "BEng in Materials Science and Engineering",
+      "aliases": [
+        "材料科学与工程",
+        "材料",
+        "beng-amat"
+      ],
+      "intake": "2025-26",
+      "hub": "Function Hub",
+      "thrust": "Advanced Materials",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Materials%20Science%20and%20Engineering?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "beng-amat"
+    },
+    {
+      "id": "beng-mics-2025-26",
+      "title": "BEng in Microelectronics Science and Engineering",
+      "aliases": [
+        "微电子科学与工程",
+        "微电子",
+        "beng-mics"
+      ],
+      "intake": "2025-26",
+      "hub": "Function Hub",
+      "thrust": "Microelectronics",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Microelectronics%20Science%20and%20Engineering?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "beng-mics"
+    },
+    {
+      "id": "beng-ai-2025-26",
+      "title": "BEng in Artificial Intelligence",
+      "aliases": [
+        "人工智能专业",
+        "人工智能",
+        "AI",
+        "beng-ai"
+      ],
+      "intake": "2025-26",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Artificial%20Intelligence?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "beng-ai",
+      "curriculumRequirementsFile": "ai-requirements-2025-onwards.json"
+    },
+    {
+      "id": "bsc-dsbd-2025-26",
+      "title": "BSc in Data Science and Big Data Technology",
+      "aliases": [
+        "数据科学与大数据技术",
+        "大数据",
+        "bsc-dsbd"
+      ],
+      "intake": "2025-26",
+      "hub": "Information Hub",
+      "thrust": "Data Science and Analytics",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Data%20Science%20And%20Big%20Data%20Technology?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "bsc-dsbd"
+    },
+    {
+      "id": "extm-ai-2025-26",
+      "title": "Extended Major Program in Artificial Intelligence",
+      "aliases": [
+        "人工智能延伸主修",
+        "EXTM-AI",
+        "extm-ai"
+      ],
+      "intake": "2025-26",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Extended%20Major%20Program%20in%20Artificial%20Intelligence?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "extended-major",
+      "baseId": "extm-ai"
+    },
+    {
+      "id": "minor-ai-2025-26",
+      "title": "Minor Program in Artificial Intelligence",
+      "aliases": [
+        "人工智能辅修",
+        "MINOR-AI",
+        "minor-ai"
+      ],
+      "intake": "2025-26",
+      "hub": "Information Hub",
+      "thrust": "Artificial Intelligence",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Minor%20Program%20in%20Artificial%20Intelligence?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "minor",
+      "baseId": "minor-ai"
+    },
+    {
+      "id": "beng-rob-2025-26",
+      "title": "BEng in Robotics",
+      "aliases": [
+        "机器人工程",
+        "机器人",
+        "beng-rob"
+      ],
+      "intake": "2025-26",
+      "hub": "Systems Hub",
+      "thrust": "Robotics and Autonomous Systems",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Robotics?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "beng-rob"
+    },
+    {
+      "id": "beng-smmg-2025-26",
+      "title": "BEng in Smart Manufacturing Engineering",
+      "aliases": [
+        "智能制造工程",
+        "智能制造",
+        "beng-smmg"
+      ],
+      "intake": "2025-26",
+      "hub": "Systems Hub",
+      "thrust": "Smart Manufacturing",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Smart%20Manufacturing%20Engineering?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "beng-smmg"
+    },
+    {
+      "id": "bsc-ftec-2025-26",
+      "title": "BSc in Financial Technology",
+      "aliases": [
+        "金融科技",
+        "FTEC",
+        "bsc-ftec"
+      ],
+      "intake": "2025-26",
+      "hub": "Society Hub",
+      "thrust": "Financial Technology",
+      "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program/Financial%20Technology?academicYear=2025%2F26",
+      "verifiedAt": "2026-10-30",
+      "description": "港科广本科专业目录中的项目；中文别名仅用于检索。",
+      "detailsVerified": false,
+      "evidence": [
+        {
+          "type": "source-summary",
+          "sourceUrl": "https://pcc.hkust-gz.edu.cn/undergraduate/program-course-catalog",
+          "section": "Year of Intake 2025-26",
+          "text": "切换2025-26后核实目录项目、Hub、Thrust和带academicYear=2025/26的原始链接；仅目录，未读取该页专业细则。"
+        }
+      ],
+      "programType": "bachelor-major",
+      "baseId": "bsc-ftec"
+    }
+  ],
+  "intakes": [
+    "2025-26",
+    "2026-27"
+  ],
+  "coverageByIntake": {
+    "2025-26": "该入学年份9个项目（7个学士主修、延伸主修及辅修各1）；AI培养要求PDF已读，其他仅目录。不代表个人毕业审核。",
+    "2026-27": "该入学年份10个项目（8个学士主修、延伸主修及辅修各1）；AI详情及培养要求PDF已读，其他仅目录。不代表个人毕业审核。"
+  }
+}
