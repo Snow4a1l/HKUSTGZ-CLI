@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/assets/images/project-icon.png" alt="hkustgz-cli 项目图标" width="112">
+
 # hkustgz-cli
 
 **问 AI：今天有什么课？最近有什么 DDL？校园卡丢了去哪补？**
@@ -10,13 +12,19 @@
 [![Verified environment](docs/assets/badges/platform.svg)](INSTALL.md)
 [![License](docs/assets/badges/license.svg)](package.json)
 
-[快速开始](#快速开始) · [常用问题](#常用问题) · [目前做到哪了](#目前做到哪了) · [遇到问题](#遇到问题) · [开发与命令](#开发与命令)
+[快速开始](#快速开始) · [演示](#使用示意) · [常用问题](#常用问题) · [目前做到哪了](#目前做到哪了) · [遇到问题](#遇到问题) · [开发与命令](#开发与命令)
 
 </div>
 
 hkustgz-cli 把港科广常用的查询整理成 CLI 和配套 Skill，让 AI 帮你查课表、汇总作业、找办事入口和学校文件。你直接提问，AI 负责调用工具，再把查到的内容和来源告诉你。
 
 目前是 **0.2.0-alpha.1 测试版**，在 **Windows + Codex** 上跑通过安装和日常查询。它还没有覆盖学校的全部系统，也没有适配所有 AI，具体范围见下文。
+
+## 使用示意
+
+![hkustgz-cli Skill演示：询问DDL、整理任务并生成安排草案](docs/assets/images/skill-demo.png)
+
+*这是AI生成的交互示意图，课程、任务和对话均为虚构，不是真实账号截图，也不作为系统验收证据。实际回答会附上来源、采集时间和覆盖范围。*
 
 ## 快速开始
 
