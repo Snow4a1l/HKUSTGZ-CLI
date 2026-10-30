@@ -4,6 +4,12 @@
 
 **问 AI：今天有什么课？最近有什么 DDL？校园卡丢了去哪补？**
 
+[![Version](docs/assets/badges/version.svg)](docs/STATUS.md)
+[![Node.js](docs/assets/badges/node.svg)](INSTALL.md)
+[![Runtime dependencies](docs/assets/badges/deps.svg)](package.json)
+[![Verified environment](docs/assets/badges/platform.svg)](INSTALL.md)
+[![License](docs/assets/badges/license.svg)](package.json)
+
 [快速开始](#快速开始) · [常用问题](#常用问题) · [目前做到哪了](#目前做到哪了) · [遇到问题](#遇到问题) · [开发与命令](#开发与命令)
 
 </div>
